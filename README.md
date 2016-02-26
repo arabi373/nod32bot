@@ -1,4 +1,4 @@
-NOD32-BOT is new and best bot.
+MeGa_TG is new and best bot.
 _________________________________________________________________________________
 for install  
 ```bash
@@ -10,9 +10,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/BH-YAGHI/NOD32-BOT.git
+git clone https://github.com/arabi373/nod32bot
 
-cd NOD32-BOT
+cd nod32bot
 
 chmod +x launch.sh
 
@@ -41,14 +41,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________
 
-
-Dont forgot update {structures.c} befor lunch [its anti GIF file]
-
-HOW DO MAKE UPDATE THIS FILE?
-
-see this git https://github.com/BH-YAGHI/tg.git
-
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
+channel : https://telegram.me/MeGa_TG_CH
 
-developer : https://telegram.me/Behroozyaghi
+developer : https://telegram.me/arabi373
