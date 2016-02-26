@@ -1,17 +1,21 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'MeGa_TG v1'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
-  
-  Channel : @Nod32team
-  
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 8
-  
-  All rights reserved.
+ 
+ An advance Administration bot based on SEEDTEAM/TeleSeed
+
+Admins:
+
+@Arabi373 [Developer]
+
+https://github.com/MeGa-TeAm/MeGabot
+
+channel : @MeGa_TG_CH
+
+sodu : @arabi373
+
   __________________]]
 end
 
