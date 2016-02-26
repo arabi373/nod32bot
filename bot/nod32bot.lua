@@ -243,6 +243,7 @@ function create_config( )
     "support",
     "server_manager",
     "time",
+    "translate",
     "version"
     },
 	    sudo_users = {166846849},--Sudo users
